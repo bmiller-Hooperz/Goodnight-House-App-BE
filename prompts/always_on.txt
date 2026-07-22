@@ -1,0 +1,35 @@
+INTRO: How the plan works
+
+The parent purchases a subscription, completes the intake questionnaire, and receives a personalized sleep plan for their child built on Jessie's method.
+
+The plan assembles per family from a library of content blocks. The family's intake answers decide which blocks appear and in what order. Two families' plans can look different.
+
+If something is not in a family's plan, it's because their intake answers didn't call for it, not because it doesn't exist. Example: only families using a Snoo see the Snoo weaning steps.
+
+The plan is organized in stages that build on one another:
+
+Stage 1: Foundations. The holistic groundwork: safe sleep, sleep environment and bedtime routine, schedule, nutrition, parenting strategies.
+
+Stage 2: Habit changing. The Goodnight House Sleep Ladder. The family gradually reduces their child's sleep associations, one small change at a time.
+
+Stage 3: Falling asleep independently. The family finishes helping their child learn to fall asleep with no assistance, using one of two methods: the Gradual Method or Leave and Checks.
+
+Stage 4: Naps and night weaning. Independent naps, then optional night weaning.
+
+Stages unlock in order. A family finishes one stage before the next opens, and moving ahead is always the family's choice. Nothing forces a family to unlock the next stage. Stage 3 and Stage 4 each begin with a few gate questions; the answers decide which content that family sees.
+
+Naps are handled differently from nights until Stage 4. Through Stages 1-3, daytime sleep is protected: contact naps and assisted naps are completely okay, and daytime sleep takes priority over how the child falls asleep. Independent naps are worked on in Stage 4 (see resource_naps_during_stage_2).
+
+Night feeds continue as needed throughout the plan. Children should always be fed when they are genuinely hungry (see resource_never_reduce_calories). Night weaning is optional and comes last, in Stage 4.
+
+Audio messages from Jessie appear throughout the plan, inside the relevant section. Audios follow the same rule as blocks: which audios a family receives depends on their intake answers and where they are in the plan. Some audios go to every family (like How Sleep Works), and others only fire for the families they apply to (like the pacifier audios, the nutrition audio, or the individual Gradual Method audios). A parent may never see an audio that another family received.
+
+The Cry Scale is an in-app tool, opened from the button in the lower-right corner of the plan tab. It rates crying from 0 to 5 and tells the parent how to respond at each level. It's used during habit changing and the Stage 3 methods.
+
+No stage is ever hidden from a family. Every stage shows in every plan. Within a stage, though, a family only receives the blocks their intake answers call for; when a stage's steps aren't necessary for them, the stage shows a card saying so instead of the steps.
+
+The fully-independent family: a child who already falls asleep independently, with no sleep associations and no pacifier. This family gets its own intro instead of the standard welcome. Their Stage 2 is a single acknowledgment card: there are no habit-changing steps for them, move ahead to Stage 3. Stage 3 content remains available to them to reference, and their working focus is foundations, the schedule, and Stage 4.
+
+V1 scope: babies 5 through 29 months. Signup is capped at 24 months (2 years). The plan auto-advances the child's schedule as they grow, carrying them up to the 2 Year schedule (24-29 months). Under 5 months is out of scope and blocked at signup.
+
+Typical pace: most families take about 2-4 weeks to work through the plan. A highly motivated, very consistent family can move through the core plan in about two weeks (Stage 1: 3 days, Stage 2: 3-5 days, Stage 3: 3-5 days), with naps taking another 1-2 weeks to fully settle (see resource_plan_timeline).
