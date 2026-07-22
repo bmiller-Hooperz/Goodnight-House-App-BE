@@ -1,0 +1,1021 @@
+FAMILY: F3 - 8mo term STILL ON 3 NAPS (known gate issue), bedsharing gradual, nursing all-night continuous latcher, no crib experience, no paci, gradual
+INTAKE: {"child_name": "Wren", "chronological_age_months": 8, "gestational_age_weeks": 40, "current_nap_count": 3, "currently_room_sharing": "our_room", "room_sharing_plan": "move_to_own_room", "uses_snoo": false, "uses_pacifier": false, "uses_swaddle": false, "uses_lounger": false, "uses_carseat_for_sleep": false, "uses_swing_for_sleep": false, "uses_inclined_sleeper": false, "bedsharing": true, "bedsharing_transition_pace": "gradual", "bedsharing_assistance_level": null, "unable_to_transfer_to_crib": false, "climbs_out_of_crib": false, "sleep_space_plan": "crib", "current_sleep_space": "parents_bed", "childcare_affects_naps": false, "feeding_method": "nursing", "on_solids": true, "initial_night_feeds": "C", "bedtime_feed_present": true, "bedtime_feed_position": "near_the_end", "feed_to_sleep_naps_overnight": "Yes", "feed_drink_type": "milk", "continuous_latch": true, "sleep_associations": [], "put_down_state": "asleep", "crib_sleep_experience": false, "child_sleep_location": "parents_bed", "sleep_goal_outcome": ["own_sleep_space", "sleep_through_the_night"], "sleep_goal_bandwidth": "B", "Q1": "A", "Q2": "B", "Q3": "B", "bedtime_independence": "still_supported", "still_night_feeding": "yes", "wants_to_wean": "yes", "top_struggle": "short_naps"}
+
+DERIVED: effective_age=8 | premature=False | feeding_to_sleep=True | milk=True | water=False | motion=False | held=False | in_crib=False | fully_indep=False | night_feeds_active=True | schedule=schedule_7_8mo_2naps | three_nap=False
+
+==================== STAGE 1 - FOUNDATIONS ====================
+
+-- CARD 1 - WELCOME --
+
+┄┄┄ [plan_intro] ┄┄┄
+Welcome! Let's get Wren sleeping!
+
+Your sleep plan is organized in intentional stages that build on one another. It starts with foundational things that set Wren up for sleep success and make future steps easier. Spend a few full days on this prep work before moving on (ideally three days). Even the seemingly insignificant recommendations are extremely important for sleep success.
+
+**What to expect**
+
+Most families take about 2 to 4 weeks to work through their plan. 
+
+It will go a really long way if you can make sleep the priority during this time. Try to be home for most naps and bedtimes for the next couple of weeks, and avoid travel or big disruptions if you can. This stretch is temporary. Once Wren is sleeping well, your days can go back to being more flexible.
+
+If other caregivers are part of bedtime and naps, it's important that everyone is on the same page.
+
+**Your first steps**
+- Read through Stage 1 of your plan and The Getting Started Guide. [link: {{GETTING_STARTED_GUIDE_SAFE_SLEEP_URL}}]
+- Listen to the audio messages from Jessie along the way.
+- Log all sleep and nutrition in the Log tab so the Goodnight House Sleep Assistant can provide detailed, personalized support along the way. The more detailed your log and notes are, the better it can support you. It can also provide personalized recommendations if circumstances arise that aren't specifically covered in your plan.
+- Ask the Goodnight House Sleep Assistant anything and everything. It's like having a sleep expert in your back pocket. 
+
+Thank you for trusting The Goodnight House with sleep. You've got this!
+
+
+┄┄┄ [goal_reflection] ┄┄┄
+**Your Sleep Goals**
+
+You mentioned your sleep goals are: own sleep space, sleep through the night. That's exactly what this plan is built to help with, and Stage 1 is where you'll build a solid sleep foundation for Wren.
+
+-- CARD 2 - THINGS TO DO FIRST --
+
+┄┄┄ [safe_sleep] ┄┄┄
+**Safe Sleep**
+
+Before you begin, please make sure Wren has been cleared by your pediatrician to work on sleep, and take a moment to read the safe sleep section of the Getting Started Guide. For any medical or health concerns, please reach out to your pediatrician.
+
+**Bedsharing:** The American Academy of Pediatrics does not recommend bed sharing, and advises that babies sleep on their own separate, firm, flat surface. The AAP also recognizes that many families bedshare for all kinds of reasons. Your plan is designed to gently transition your child into their own sleep space, step by step and at a pace that works for your family.
+
+If you continue to bedshare during the first few stages of your plan, please do so mindfully: a firm, flat mattress with no pillows, heavy blankets, or soft bedding near your child, your child on their back, and never on a couch, recliner, or armchair. Bedsharing is not safe if anyone in the bed smokes, or has had alcohol or any sedating medication.
+
+-- CARD 3 - SLEEP BASICS --
+
+┄┄┄ [sleep_environment_and_bedtime_routine] ┄┄┄
+**The Sleep Environment and Bedtime Routine**
+
+Please start by listening to the audio to understand how sleep works. This will lay the foundation for everything in your sleep plan.
+
+Audio: audio_how_sleep_works
+
+Make sure you've read the Getting Started Guide first, it covers these in depth. The following are extremely important and you don't want to overlook them. Have questions, stuck on the how, or need product recommendations? Ask the Goodnight House Sleep Assistant.
+
+**Dark sleep space:** Light suppresses melatonin (the sleep hormone). Even a small amount of light can interfere with sleep. Make the room cave-dark for every nap and through the night. Avoid screens for at least 1 hour before bed.
+
+**White noise:** White noise camouflages sounds that would otherwise wake Wren. It will also become a cue for sleep. Use one constant low, deep sound. Use the same sound every time, for every sleep.
+
+**Temperature:** Too hot or too cold means more wakings. Aim for 68 to 72 degrees, and dress Wren about the same as what you would be comfortable wearing.
+
+**Sleep sack:** A sleep sack is a safe, frustration free blanket alternative that becomes a sleep cue. Use it for every nap and bedtime.
+
+**A simple sleep routine:** A sleep routine done in the same order every time is a cue that sleep is coming. End with a consistent, "sleep phrase." 
+**Example routine:** Diaper + Jammies > Sleep Sack > Cuddle/Song/Books > Lights Off > Sound Machine. 
+
+**Ok-to-Wake clock:** Consider using an Ok-to-Wake clock. These are great for babies and toddlers ~8 months and older to signal when it's time to wake up for the day and from naps.
+
+-- CARD 4 - SCHEDULE --
+
+┄┄┄ [schedule_card_SHELL + variant] ┄┄┄
+[Schedule variant fired: schedule_7_8mo_2naps — 7/8 Month Old (Settled on 2 Naps)]
+
+**Wren's Sleep Schedule:**
+
+Begin working towards a consistent by-the-clock schedule based on age-appropriate wake windows. This is a conservative place to start and will help ensure Wren is ready for sleep at naps and bedtime (not too over or under-tired). 
+
+If your current routine looks nothing like this schedule, don't panic. Take a few days to ease into it by shifting nap times and bedtime 15-30 minutes a day until you land on the schedule. 
+
+**Sleep Needs:**
+**- Total sleep in 24 hours:** ~14 hours
+**- Nighttime sleep:** 11-12 hours
+**- Daytime sleep (across both naps):** 2.5-3.5 hours
+**- Number of naps needed:** 2 naps
+**- Total awake time across the day:** 9-10 hours
+
+**Wake Windows:**
+2.5-3 / 3-3.25 / 3-3.5
+
+**Sample Schedule:**
+**- 7:00am** Wake for the day
+**- 9:45-11:15am** Nap 1
+**- 2:15-4:00pm** Nap 2
+**- 7:00/7:30pm** Bedtime
+
+**Good to Know:**
+On short or skipped nap days, opt for an early bedtime (as early as 6:00pm) to compensate for lost day sleep.
+
+
+┄┄┄ [making_the_schedule_work] ┄┄┄
+**Making Your Schedule Work**
+
+Stick to the schedule as closely as you can while you're actively working on sleep. The consistency is what makes it click. 
+
+**Follow the schedule**
+- Use a consistent morning "out of crib time" (within ~30 min).
+- Go by the clock, not cues. Aim to have Wren asleep by the scheduled nap time. "Nap at 10:00" means asleep by 10:00.
+- Wake Wren at the end of the scheduled nap to protect the next sleep time. 
+- Have Wren stay in the dark sleep space for the full sleep period. Even time spent awake, as long as it's in the dark sleep space, is still restorative. This is key to helping the schedule work. 
+
+**Early morning wakings**
+- If Wren wakes before 6:30 to 7:00am (the "out of crib time"), keep them in the dark sleep space and treat it like a night waking. Keep it calm, dark, and boring.
+- If the waking happens closer to 6:30am, you can start the day up to 30 minutes early if needed. Keep nap 1 anchored at the scheduled time each day. 
+- Early morning wakings are normal while sleep settles and will resolve with consistency.
+
+**Short naps**
+- Keep Wren in the dark sleep space and wait and watch for 5-10 minutes before intervening. 
+- If Wren is awake but content, no need to intervene. Treat the remainder of the nap as a quiet rest time. If Wren is crying, it's okay to assist back to sleep. Prioritize protecting day sleep over nap independence for now. Contact and rescue naps are completely ok (you'll work on nap independence during Stage 4). 
+
+**Bedtime**
+- If naps are missed or short, opt for an early bedtime to help Wren catch up on lost day sleep.
+- Keep the last 30 min before bedtime calm.
+
+**Shifting the schedule**
+Following the schedule as written while working on sleep is very important. If a constraint like daycare makes the given times impossible, ask the Goodnight House Sleep Assistant about adjusting.
+
+-- CARD 5 - NUTRITION AND SLEEP --
+
+┄┄┄ [nutrition_and_sleep_opener] ┄┄┄
+**Nutrition and Sleep**
+
+Audio: AUDIO_NUTRITION_AND_SLEEP
+
+
+┄┄┄ [nutrition_and_sleep_baby] ┄┄┄
+**Goals:**
+- Encourage good, full feedings all day long. 
+- Help Wren associate eating with nutrition, not sleep.
+- Aim for at least four full feedings during the day (nursing), avoiding quick top-offs.
+
+**Solids and Meals:**
+- Avoid introducing new foods while you're actively working on sleep. 
+- Nurse first, then offer solids shortly after.
+- Keep solids and snacks in the highchair (unless on the go).
+- Avoid frequent grazing or "top-off" nursing sessions between solids.
+- Prioritize whole, unprocessed foods. Limit processed foods, soft drinks, and food dyes. 
+
+**If Wren gets distracted during nursing:**
+- Feed in a calm, low-light environment.
+- Use white noise during feeds to block out distractions.
+- Try to feed in the same spot each time so Wren starts to associate that space with feeding.
+- Turn your body or chair toward a wall or corner to limit what Wren can be distracted by. 
+- Do a quick "reset" if Wren keeps stopping or getting distracted. Pause, burp, then relatch, rather than letting it turn into a distracted snack session.
+
+Always follow your child's hunger cues and feed them when they're hungry. The goal is never to restrict calories, but to encourage fuller, more satisfying feedings.
+
+**Early morning wakings:**
+If Wren wakes between 4-5am and you believe it's due to hunger, offer a "snooze button" feeding. This is a smaller feeding (about half the oz of a full bottle feeding or half the time of a full nursing session) to bridge the gap between the early waking and morning wake time, while still protecting the first feeding of the day.
+
+If you suspect your child is experiencing feeding or weight gain concerns, please consult your pediatrician and/or a certified lactation consultant. Feeding and sleep often influence one another, so it can be helpful to work with a provider who is willing to consider both when developing a plan.
+
+-- CARD 6 - PARENTING STRATEGIES --
+
+┄┄┄ [parenting_strategies] ┄┄┄
+**Parenting Strategies**
+
+Even with young babies and toddlers, the small, intentional choices you make during the day lay the groundwork for bedtime.  
+Audio: AUDIO_PARENTING_STRATEGIES
+
+**Prioritize connection, where your child can see**
+- Set aside about 15 minutes each day for you and your spouse to sit and talk while Wren plays nearby.
+- Make it intentional grown-up time. Keep it light and enjoyable, not the moment for serious conversations.
+- Seeing the two of you connect and put each other first can build your child's sense of security.
+
+**Revisit freedoms and choices**
+- A lot of freedoms or choices during the day can make bedtime boundaries harder to accept. If Wren gets to decide most things all day, it can be confusing when bedtime is not optional. 
+- Think through whether the freedoms and choices you're offering are age-appropriate, and pull back where they aren't while you work on sleep. 
+
+**Be consistent all day, not just at bedtime**
+- Let your "yes" mean yes and your "no" mean no.
+- Consistency all day long will help Wren understand bedtime boundaries. 
+
+**Practice independent playtime**
+- Independent playtime builds confidence that translates to bedtime. Aim for 2 to 3 short sessions a day, about 5 to 10 minutes each.
+- Independent playtime can help Wren view the bedroom as a safe and happy place, which can support the transition to more independent sleep.
+
+- If your child has never slept in their sleep space, or has a negative association with it (common when you're moving toward independent sleep from bedsharing or room-sharing): this practice is especially important.
+
+**How to implement Independent Playtime**
+- Start with short play sessions in the bedroom where you eventually want Wren to sleep. Turn on some music and play together for 5-10 minutes. Repeat 2-3 times per day.
+
+- As Wren gets used to it, move playtime into the crib. Sit nearby, sing, and interact. Then gradually start stepping back. Tidy up the room while Wren plays, and eventually step out for short periods. Do it at the same time each day. Set a timer and make a big deal when it beeps.
+
+- You can also begin doing diaper changes and sleep routines in the room to build familiarity and comfort in the space.
+
+**If Wren is already comfortable with their room and sleep space:** A pack and play or playpen anywhere in the house works just as well for independent play.
+
+==================== STAGE 2 - REDUCING SLEEP ASSISTANCE ====================
+
+
+┄┄┄ [stage2_intro] ┄┄┄
+**Reducing Sleep Assistance**
+
+Sleep habits often form gradually, and they can be changed gradually too. Your plan is designed to reduce the support Wren needs to fall asleep one step at a time. Think of Stage 2 as a ladder that you are gradually stepping down. You'll start at the very top of the ladder and each of the steps below walks Wren step by step to the bottom (which is independent sleep).
+
+
+┄┄┄ [stage2_audio] ┄┄┄
+[AUDIO: Habit Changing Audio]
+
+
+┄┄┄ [stage2_before_you_begin] ┄┄┄
+Some families move through Stage 2 in just a few days. Others take about a week or so, depending on their comfort level. What matters most is that you keep moving forward. 
+
+**Sleep may feel like it gets a little worse before it gets better. This is normal. Wren is adjusting to a change, and it does not mean the plan isn't working. Progress isn't always linear, and things don't have to look perfect to move on to the next step. Look for trends rather than perfection. Small wins add up. The consistent practice itself is what matters, even when the process feels messy or imperfect.**
+
+Keep moving forward at a steady pace even if things aren't 100%. If you feel unsure about whether you are ready to move on, ask the Goodnight House Sleep Assistant. 
+
+If you feel this plan moves too fast for your comfort level or Wren's temperament, chat with the Goodnight House Sleep Assistant for encouragement, tips, or alternative ideas.
+
+
+┄┄┄ [decrease_automatic_latch_access] ┄┄┄
+**Begin unlatching before Wren is fully asleep**
+
+Aim for 1-3 nights
+
+**At bedtime:**
+- Feed Wren. Once Wren is very drowsy, gently unlatch and assist the rest of the way to sleep using an alternative strategy (rocking, patting, cuddling etc).
+- If Wren wakes, offer it again and repeat.
+
+**Throughout the night:**
+
+- Feed as needed.
+
+- Each time, try to unlatch before Wren is fully asleep.
+
+- Try wearing a shirt that creates a natural pause before your child can re-latch. This can help break the automatic latch pattern.
+
+**By the end of this step, Wren should be able to finish falling asleep with other soothing strategies such as rocking, patting, cuddling or other forms of comfort.**
+
+
+┄┄┄ [separate_nursing_from_sleep] ┄┄┄
+**Separate feeding/drinking from sleep**
+
+Aim for 1-3 nights
+
+Starting at bedtime, replace feeding to sleep with other soothing strategies.
+
+**Choose an approach to implement over the next few nights:**
+
+**Option A - More Direct**
+Feed at the beginning of the bedtime routine, then soothe Wren to sleep using an alternative strategy. There are so many ways to soothe Wren other than feeding. Use rocking, patting, or cuddling instead.
+
+**Option B - More Gradual**
+Feed until drowsy, then rock the rest of the way to sleep. Each night move the feeding slightly earlier in the routine until it lands at the beginning of the bedtime routine.
+
+**The goal is to rearrange the bedtime routine so feeding happens first and soothing to sleep comes last. Here is an example of what that looks like:**
+Bath - Diaper - Feed - PJs and Sleep Sack - Books or Song - Soothe to sleep (rock, pat, cuddle etc).
+
+**During the night:**
+- When Wren wakes, pause for about 5-10 minutes before intervening. Wren may surprise you and resettle independently.
+- If Wren doesn't settle, soothe back to sleep with rocking, patting, or cuddling etc.
+
+- If Wren wakes and you believe it's due to hunger, it is absolutely ok to offer a feeding. Aim to keep Wren awake and actively eating.
+- Once Wren is done, unlatch and soothe to sleep by rocking, patting, cuddling etc.
+- If Wren immediately falls asleep at the breast or begins to lightly suckle without actively eating, go ahead and unlatch and soothe the rest of the way to sleep by rocking, patting, cuddling etc.
+
+**By the end of this step, feeding should be happening at the beginning of the bedtime routine. Wren should tolerate being soothed to sleep with alternative strategies (rocking, patting, or cuddling etc).**
+
+
+┄┄┄ [move_feed_out_of_sleep_space] ┄┄┄
+**Move feeding out of the sleep space**
+
+Aim for 1-3 nights
+
+**At bedtime:**
+- At the beginning of bedtime routine, feed Wren in a chair in a location outside of the usual sleep space (like the living room).
+- The goal is a full feeding while Wren is awake.
+- Once done, finish the bedtime routine and assist Wren to sleep.
+- Soothe Wren to sleep using an alternative strategy. There are so many ways to soothe Wren other than feeding. Use rocking, patting, or cuddling instead.
+- Resist the urge to fall back on feeding to sleep, even if it takes a while for sleep to happen. Wren can do this!
+
+**Throughout the night:**
+- When Wren wakes, soothe back to sleep using an alternative strategy (rocking, patting, cuddling).
+
+- If Wren wakes and you believe it's due to hunger, feed in a chair, then assist back to sleep using an alternative strategy (rocking, patting, cuddling).
+- If you don't believe Wren is hungry, avoid defaulting to feeding as a sleep strategy. Use rocking, patting, or cuddling instead.
+
+**By the end of this step, the feeding should happen outside of the sleep space, and Wren should tolerate being soothed to sleep with alternative strategies (rocking, patting, or cuddling etc).**
+
+
+┄┄┄ [reduce_hands_on_soothing] ┄┄┄
+**Reduce hands-on soothing**
+
+Aim for 1-3 nights
+
+**At bedtime:**
+- Begin gradually reducing the amount of assistance you offer as Wren falls asleep.
+- Rocking and patting should decrease over a few nights, moving towards simply placing your hand on Wren.
+- Once Wren tolerates this, you can work towards being a calm, quiet presence nearby with as little active intervention as possible. 
+
+**During the night:**
+- Assist Wren back to sleep with the least amount of intervention necessary.
+
+**By the end of this step, Wren should be able to fall asleep with you close by but with very little intervention.**
+
+
+┄┄┄ [crib_transition_no_experience] ┄┄┄
+**Begin transitioning your child to their own sleep space**
+
+Aim for 1-3 nights
+
+**Before you begin:**
+- Make sure Wren is spending some daytime independent play time in the crib.
+- If you haven't started this yet, head back to the independent play tips in Stage 1 of your plan (in Parenting Strategies). 
+- Familiarization during the day makes the nighttime transition easier.
+
+**As you begin this next transition, choose the path of least resistance to start:**
+- Place Wren in the crib and soothe the rest of the way to sleep in the crib.
+- Help Wren fall asleep in your bed first, then transfer to crib. 
+- Help Wren fall asleep in your arms, then transfer to crib once asleep.
+
+Remember to use the least amount of intervention necessary to soothe Wren to sleep. 
+
+**At bedtime and through the night:**
+- If Wren wakes, soothe back to sleep using the least amount of intervention necessary and return to crib.
+- A good goal is to continue this at any wakings until you are ready to go to bed yourself, or until around midnight. 
+- Over the next 1-3 nights work toward Wren being in the crib all night long.
+
+**By the end of this step, Wren should be able to sleep in the crib all night long.**
+
+
+┄┄┄ [stage2_tips_naps] ┄┄┄
+**NAPS**
+**During Stage 2 of your sleep plan, the main priority for naps is protecting quality day sleep for Wren:**
+- Continue assisting naps however works best for your family (contact napping, crib transfers, whatever feels manageable).
+- Aim to use the least amount of intervention necessary to assist to sleep.
+- If Wren wakes early from a nap upset, it's ok to assist back to sleep to finish out the nap.
+- If Wren wakes early from a nap but remains content, no intervention is needed. Treat the remainder of the nap as a quiet rest time.
+
+- Avoid feeding to sleep for naps. Instead, use other soothing strategies to help with falling asleep.
+
+- Once a step is working well at bedtime, you can begin applying the same approach to the first nap of the day if you want to give it a try. Once nap one is going well, apply it to the second nap. If reducing assistance is causing short or missed naps, ease up and increase support. Daytime sleep takes priority over how Wren falls asleep at this stage.
+
+
+┄┄┄ [stage2_tips_feeding] ┄┄┄
+**FEEDING**
+- Always feed Wren when hungry. The goal here is simply to separate feeding from sleep so that feeding is no longer the primary way sleep happens. This is different from intentionally weaning night feeds.
+- A helpful way to think about it: if Wren just had a good full feeding but wakes 20 minutes later, hunger is probably not the culprit. If it has been around 4 hours since the last feeding and hunger seems likely, a feeding may be appropriate.
+- Aim to keep Wren alert and actively eating during feeds. Once the feeding is complete, soothe Wren back to sleep using anything other than feeding to sleep (rocking, patting, cuddling, etc.). Use the least amount of intervention necessary.
+
+
+┄┄┄ [stage2_tips_night_wakings] ┄┄┄
+**NIGHT WAKINGS**
+If Wren wakes during the night, a good rule of thumb is to pause for about 5-10 minutes before jumping to intervene. If you have a very sensitive child, it's ok to pause for less time (use your best judgement). The pause gives Wren a chance to resettle independently. The cry scale in the lower right corner of the app can be helpful to assess when to intervene.
+
+
+┄┄┄ [stage2_tips_crying] ┄┄┄
+**CRYING**
+Even very gradual changes can take time to get used to and will feel unfamiliar to Wren. Some crying is to be expected. Use the Cry Scale (lower right corner of the app) to help you assess when to increase support and when to pause and assess.
+
+
+┄┄┄ [stage2_tips_support] ┄┄┄
+**NEED MORE SUPPORT?**
+If you have questions, a highly sensitive child, need help breaking any of these steps down further, or are dealing with an extenuating circumstance, open the chat tab in the app and talk with the Goodnight House Sleep Assistant. It can answer questions, help you troubleshoot challenges, and provide personalized guidance along the way.
+
+==================== STAGE 3 - FALLING ASLEEP INDEPENDENTLY ====================
+
+-- ENTRY GATE (screens the parent answers) --
+
+┄┄┄ [stage3_gate_goal_intro] ┄┄┄
+You've finished Stage 2, great job. You said you wanted to see what's possible with your child's sleep and decide as you go. Stage 3 is about helping your child learn to fall asleep independently, building on everything you've already done. The following questions help tailor it to your child.
+
+
+┄┄┄ [stage3_audio_gate_intro] ┄┄┄
+[AUDIO: Choosing Your Approach — gate intro, ~1.5 min, Jessie's voice. Script locked, recording pending.]
+
+Hey, it's Jessie. You've made it to the end of Stage 2, which means you've done a lot of hands-on intentional work with your child. They are set up so well for these last steps!
+
+The last piece is helping your child finish getting used to falling asleep without your help. There are two approaches I use to get there, and I want to give you a quick overview before we set up your plan.
+
+The first is a continuation of the gradual method. You keep doing what you've been doing, but you continue stepping back. So depending on where you're at in the process, you might lay your child in the crib awake and pat them to sleep for a few nights, then reduce the patting, then sit nearby without patting, then slowly move further away each night until you're out of the room.
+
+The second is a leave and check method. You lay your child in the crib awake, you step out of the room, and you come back to reassure them if they need it. It's more direct, and it tends to be faster.
+
+Both methods can include some crying. Both keep you reassuring your child through the change. Both allow you to step back to give your child the room to practice this last piece.
+
+You are going to be asked a few questions to figure out which one is the right starting point for your child, because you know your child best. You can also opt to get the full breakdown of each method if you're unsure.
+
+
+┄┄┄ [gate_Q1_current_bedtime_state] (parent answers: A) ┄┄┄
+**How is your child falling asleep most nights right now?**
+- A. I hold still with my child as they fall asleep
+- B. I actively assist my child to sleep while I hold them
+- C. I lay next to my child until asleep and then move my child to their own sleep space (or, if the bed is their sleep space, I slip away once they're asleep)
+- D. My child falls asleep in their own sleep space with hands-on assistance (i.e. patting in crib)
+- E. My child falls asleep in their own sleep space while I sit nearby (no hands-on assistance or physical touch is needed, just my presence)
+- F. I lay my child down 100% awake, I leave the room, and my child can consistently fall asleep unassisted (no rocking, feeding, patting, or pacifier)
+- G. I can get my child to sleep, but they wake up when I try to transfer them to their sleep space
+
+
+┄┄┄ [gate_Q2_method_preference] (parent answers: B) ┄┄┄
+**Now that you've listened to the method overviews, do you have a preference or idea of what might fit your child?**
+- A. I prefer to start by assisting my child to sleep while they lay in their own sleep space
+- B. I prefer to sit nearby as my child falls asleep
+- C. I prefer to leave the room and return to reassure my child if needed
+- D. I'm unsure, please show me both
+
+
+┄┄┄ [gate_Q3_night_feeds] (parent answers: B) ┄┄┄
+**How many feedings, if any, is your child getting overnight?**
+- A. Zero, we've already dropped all night feeds
+- B. One to three feeds, around consistent times
+- C. More than three, or it's variable
+
+-- UNIVERSAL TOP --
+
+┄┄┄ [stage3_intro] (Variant A) ┄┄┄
+**Falling Asleep Independently**
+
+You've worked hard to set Wren up for sleep success. Stage 3 is the final piece of the puzzle and focuses on mastering independent sleep at bedtime and through the night. 
+
+Based on what you shared, your plan includes both the Gradual Method and the Leave and Check method.
+
+Before you pick a method, listen to the audio below:
+
+Still not sure which option to pick? Open the chat tab and tell the Goodnight House Sleep Assistant about your child. It can help you think it through.
+
+
+┄┄┄ [stage3_audio_choosing_your_approach] (embedded in Variant A) ┄┄┄
+[AUDIO: Choosing Your Approach for Stage 3 — ~4.5 min, Jessie's voice. Script locked, recording pending.]
+
+Hey, it's Jessie. Before we dive into the next steps, I want to talk to you for a few minutes about where you are and what is coming next.
+
+You've already done lots of intentional work with your child. You've worked on timing and routines, their sleep environment, nutrition, all the things. You've also been gradually changing their habits around sleep. All of these things have been setting your child up for sleep success.
+
+Now it's time to finish helping your child learn to fall asleep independently. They're ready.
+
+When I'm working one-on-one with families, this is the point where we usually have a conversation about how to finish things up. There are two ways to do this, and detailed instructions for both are included in your plan.
+
+The first is to keep going with a gradual approach, making small changes over the next week or two. You'd continue laying your child down more awake each night, then sit next to the crib, then slowly create distance until they're falling asleep on their own.
+
+The second is a leave and checks method. You lay your child down awake, step out of the room, and return for brief check-ins when they need reassurance.
+
+I want to be honest with you about something, because I think you deserve a straight answer rather than a balanced presentation that pretends this is 50/50. It isn't.
+
+In my experience, about 95% of the families I work with end up choosing, or switching to, leave and checks. By the time we get to this point in the plan, most kids in this age range are ready for a clearer, faster transition. Parent presence at this exact point can actually make falling asleep harder rather than easier. Babies and toddlers can see and feel that you're there, but the way you're helping them fall asleep is changing and not at all what they prefer. That's overstimulating for a lot of kids, and instead of being helpful, it becomes frustrating.
+
+That said, gradual is a real option, and for the right family it can be great. It tends to work especially well for younger babies, around 5 months old (or toddlers and kids over 3), babies with very easygoing temperaments, parents who strongly prefer to stay very involved during the process, and some families transitioning from bedsharing. If that sounds like your situation, gradual might be a great fit.
+
+The other thing I'll say: leave and checks typically work more quickly. With consistency, many families begin seeing a clear improvement within a few nights, meaning their child is falling asleep faster and waking less overnight. Instead of spreading the change out over several nights, the direct method makes the final change all at once. That can sound abrupt, but many children actually handle this very well, especially because of all the prep work you've already been doing. This is the difference between what you've been doing in this plan vs what many parents tell me they've done in the past. A cold turkey night of leave and checks without addressing anything else can be an actual disaster. This is not that. You've bridged the gap a ton, prepped your child, and they're ready for this next step.
+
+A couple of things that are important to know either way.
+
+Both of these methods are considered parent-present approaches. You're reassuring them. You're comforting them. You haven't abandoned them, you're just stepping back to give them the chance to practice this last piece. Think back to teaching your child to walk. You held both hands, then one hand, then you stepped back to give them room to take a step on their own. That's what we're doing here. You're stepping back to give them the opportunity.
+
+Both methods can include some crying. Your child is working through a habit change, and crying is one way they communicate about that.
+
+If your gut is telling you gradual is the right fit for your kiddo, trust that. You know your child best. And if you start gradual and it isn't going well, switching to leave and checks is not at all a failure. A lot of parents actually need to try gradual to feel confident about leave and checks, and that's completely okay.
+
+If you want help thinking through which method fits your family, open the chat tab and tell the Goodnight House Sleep Assistant about your child. It can ask you a few questions and help you think it through.
+
+You have done so much intentional work to help prepare your child for this next step. They are absolutely ready for it.
+
+
+┄┄┄ [stage3_audio_understanding_crying] ┄┄┄
+[AUDIO: Understanding Crying During Sleep Training — ~9-10 min, Jessie's voice. Script locked, recording pending. Universal: plays once before either method.]
+
+This audio covers: the anticipation reframe (the wait is often worse than the thing), crying as communication, the car-seat analogy, making loving decisions a child doesn't understand, sleep as a real physical need, why the first couple of nights are hardest, and that consistency is the single biggest lever on how it goes.
+
+[Full ~9-10 minute script is locked in the Stage 3 working doc, Section 9. Held there as the recording script rather than reproduced in full here; it is an audio asset, referenced by name.]
+
+-- GRADUAL METHOD (collapsible section) --
+
+┄┄┄ [stage3_gradual_intro] ┄┄┄
+**The Gradual Method**
+
+- Use the Cry Scale (button in the lower right corner of the plan tab) to gauge when to intervene.
+- Stay in the room until Wren is fully asleep (wait 10-20 minutes before leaving). Leaving too soon can cause a wake-up and you'll have to start over.
+- Up until now your role has been to physically help Wren fall asleep. That role is now shifting. Instead of physically assisting to sleep, you'll begin transitioning to using your presence to comforting and reassuring while Wren does the work of falling asleep.
+
+Questions before or during? Ask the Goodnight House Sleep Assistant in the chat!
+
+Before starting night one of Stage 3, listen to the audio about crying.
+
+
+┄┄┄ [stage3_audio_understanding_gradual] ┄┄┄
+[AUDIO: Understanding the Gradual Method — ~5-6 min, Jessie's voice. Script locked, recording pending.]
+
+This audio orients any gradual family before phase-specific content: the big-picture framing, that the job once nearby is to be a present, not a fixer, and a full walk-through of the Cry Scale (0-5) with the rule to intervene only for sustained 5/5 crying (~5 min, no ebb and flow), and that this rule applies in the room, not just from the hallway. It also covers that gradual generally takes longer (the trade-off for staying close), to stay in the room until fully asleep (wait 10-20 min before leaving), and that consistency is the biggest lever.
+
+[Full ~5-6 minute script is locked in the Stage 3 working doc, Section 9; referenced here as an audio asset.]
+
+
+┄┄┄ [stage3_gradual_phase1_in_crib_soothing] ┄┄┄
+**In-crib soothing**
+
+Aim for ~3 nights
+
+[AUDIO A: In-Crib Soothing Realistic Expectations — ~2 min. Script locked, recording pending. Also surfaced for Phase 2 starters.]
+
+**On the first night**
+- Hold Wren until very drowsy and transfer to the crib.
+- Lean into the crib and remain very hands on as you assist Wren the rest of the way to sleep.
+- Repeat at any night wakings. 
+
+**On the next night**
+- Hold Wren for about five minutes less than the night before and transfer to the crib less drowsy.
+- Lean into the crib and remain very hands on as you assist Wren the rest of the way to sleep.
+- Repeat at any night wakings. 
+
+**On the next night**
+- Hold Wren for about five minutes less than the night before and transfer to the crib less drowsy.
+- Lean into the crib and remain very hands on as you assist Wren the rest of the way to sleep.
+- Repeat at any night wakings. 
+
+**Strategies for in-crib soothing**
+Use whatever combination of these works well for your child:
+- A heavy hand on their chest
+- Cradle and/or rock them while they lay on the crib mattress
+- Rhythmic patting
+- Similar soothing methods
+
+Continue until Wren is completely asleep.
+
+
+┄┄┄ [stage3_gradual_phase2_reduce_in_crib] ┄┄┄
+**Reduce in-crib assistance**
+
+Aim for ~3 nights
+
+**On the first night**
+- Lay Wren in the crib awake or only slightly drowsy.
+- Lean into the crib and use the least amount of hands-on assistance Wren needs to fall asleep.
+- Repeat at any night wakings. 
+
+**On the next night**
+- Lay Wren in the crib completely awake.
+- Lean into the crib and stay hands-on to begin, but start reducing your in-crib assistance.
+- Use the least amount of intervention necessary to keep Wren calm.
+- Intervene to calm Wren, but don't assist Wren to sleep.
+- Briefly reassure Wren, but try not to return to the types of rhythmic soothing (rocking, steady patting, etc.) that fully put Wren to sleep on previous nights.
+- Your goal is to help your child stay calm while giving them the opportunity to finish falling asleep on their own. 
+- Repeat at any night wakings. 
+
+**On the next night**
+- Lay Wren in the crib completely awake.
+- Continue reducing your in-crib assistance.
+- Use the least amount of intervention necessary to keep Wren calm.
+- Intervene to calm Wren, but don't assist Wren to sleep.
+- Briefly reassure, but don't return to the types of rhythmic soothing (rocking, steady patting, etc.) that fully put them to sleep in earlier nights.
+- Your goal is to help your child stay calm while giving them the opportunity to finish falling asleep on their own.
+- Repeat at any night wakings.
+
+
+┄┄┄ [stage3_gradual_phase3_create_distance] ┄┄┄
+**Gradually create distance**
+
+Aim for ~5 nights
+
+[AUDIO B: The Chair Phase — ~2.5 min. Script locked, recording pending. Fires for any gradual family who reaches Phase 3, including Phase 3 starters.]
+
+If you've been sleeping on a mattress in your child's room as part of your transition, you can either keep it there for the first 1-2 nights and then move it back to your own room, or move it back now.
+
+**On the first night**
+- Lay Wren in the crib completely awake.
+- Sit in a chair next to the crib. Your presence is the reassurance.
+- Use the Cry Scale to help you assess when to intervene and when to pause.
+- Remain quietly seated. Offer extra reassurance only if Wren reaches a sustained level 5 cry (with no ebb and flow) lasting approximately 5 minutes.
+- If reassurance is needed, briefly comfort Wren for about 1 minute before returning to quietly sitting and giving Wren the time and space to settle.
+- Restart the process and wait for another sustained level 5 cry lasting approximately 5 minutes before intervening again.
+- Don't assist to drowsiness or sleep.
+- Use pick-ups very sparingly, if at all. If picking up doesn't help, or makes things worse, discontinue pick-ups.
+
+**If your child keeps popping up**
+
+Try sitting on the floor instead of in a chair so you're below Wren's eye level. Children will often sit up or stand to get closer to a parent. When you're lower to the ground, they're more likely to lay back down if they want to be near you.
+
+**On the next night**
+- Lay Wren in the crib completely awake.
+- Move your chair to the middle of your child's room.
+- Your presence is their reassurance.
+- Use the Cry Scale to help you assess when to intervene and when to pause.
+- Remain quietly seated. Offer extra reassurance only if Wren reaches a sustained level 5 cry (with no ebb and flow) lasting approximately 5 minutes.
+- If reassurance is needed, briefly comfort Wren for about 1 minute before returning to quietly sitting and giving Wren the time and space to settle.
+- Restart the process and wait for another sustained level 5 cry lasting approximately 5 minutes before intervening again.
+- Don't assist to drowsiness or sleep.
+- Use pick-ups very sparingly, if at all. If picking up doesn't help, or makes things worse, discontinue pick-ups.
+
+**On the next night**
+- Lay Wren in the crib completely awake.
+- Move your chair to the doorway of your child's room.
+- Your presence is their reassurance.
+- Use the Cry Scale to help you assess when to intervene and when to pause.
+- Remain quietly seated. Offer extra reassurance only if Wren reaches a sustained level 5 cry (with no ebb and flow) lasting approximately 5 minutes.
+- If reassurance is needed, briefly comfort Wren for about 1 minute before returning to quietly sitting and giving Wren the time and space to settle.
+- Restart the process and wait for another sustained level 5 cry lasting approximately 5 minutes before intervening again.
+- Don't assist to drowsiness or sleep.
+- Use pick-ups very sparingly, if at all. If picking up doesn't help, or makes things worse, discontinue pick-ups.
+
+**On the next night**
+- Lay Wren in the crib completely awake.
+- Move your chair to just outside the doorway and close the door halfway.
+- Your presence is their reassurance.
+- Use the Cry Scale to help you assess when to intervene and when to pause.
+- Remain quietly seated. Offer extra reassurance only if Wren reaches a sustained level 5 cry (with no ebb and flow) lasting approximately 5 minutes.
+- If reassurance is needed, briefly comfort Wren for about 1 minute before returning to quietly sitting and giving Wren the time and space to settle.
+- Restart the process and wait for another sustained level 5 cry lasting approximately 5 minutes before intervening again.
+- Don't assist to drowsiness or sleep.
+- Use pick-ups very sparingly, if at all. If picking up doesn't help, or makes things worse, discontinue pick-ups.
+
+**On the next night**
+- Lay Wren in the crib completely awake.
+- Step out of the room and close the door all the way.
+
+Now that you're successfully out of the room, the natural next step is simply checking on your child if they need you (essentially the Leave and Check method).
+- Transition to using checks when needed.
+- Please read through the Leave and Checks instructions so you know exactly what to do.
+- If you feel Wren is ready sooner, you may move to this step earlier.
+- Repeat at any night wakings. 
+
+**By the end of stage 3 Wren should be able to be laid down completely awake and fall asleep with no assistance from you at bedtime.**
+
+
+┄┄┄ [stage3_gradual_tip_middle_of_the_night_wakings] ┄┄┄
+**Middle of the night wakings**
+
+Apply the same changes and follow the same schedule for middle of the night wakings. Respond to night wakings using the same level of assistance you used at bedtime that night.
+
+Just like at bedtime, once Wren falls asleep, wait about 10-20 minutes before leaving so you don't cause a wake-up and have to start over.
+
+
+┄┄┄ [stage3_gradual_tip_naps_during_stage_3] ┄┄┄
+**Naps during Stage 3**
+
+Continue to assist Wren to sleep for naps during Stage 3. This is completely acceptable and often ideal in order to protect day sleep for now. Just remember to use the least amount of intervention necessary to assist Wren to sleep.
+
+It's ok if you continue contact napping and rescuing naps as needed (assisting back to sleep after early wakings).
+
+Once Wren is falling asleep independently at bedtime, you will begin working toward independent naps in Stage 4.
+
+If Wren is falling asleep independently at bedtime, or if bedtime and overnight sleep are going well and you're ready to begin working on naps, open the chat with the Goodnight House Sleep Assistant. It can help you determine whether Wren is ready and guide you through the next steps.
+
+
+┄┄┄ [stage3_gradual_tip_pacing] ┄┄┄
+**Pacing**
+
+You can always move faster or slower with this process depending on how Wren responds. Do not go backwards once a step is working well.
+
+
+┄┄┄ [stage3_gradual_tip_when_your_chair_is_no_longer_next_to_the] ┄┄┄
+**When your chair is no longer next to the crib**
+
+For night wakings, return to the same chair position you used at bedtime that night. It's ok to go to the cribside first to see what Wren needs and offer reassurance, then return to your chair position and stay there until Wren is asleep, just like at bedtime.
+
+
+┄┄┄ [stage3_gradual_tip_rolling_sitting_standing_and_new_motor_s] ┄┄┄
+**Rolling, sitting, standing, and new motor skills**
+
+Younger babies often learn to roll either during this process or right after sleep improves. Older babies and toddlers are often learning how to stand and sit back down.
+
+Crib gymnastics during sleep training is very common. It can cause anxiety for parents, but if your child can sit and lay back down during the day, they can do it during the night. When they're ready to lay back down, they will. 
+
+If your child sits or stands, simply pat the mattress and encourage them to lay back down. Try this 1-2x, but don't get into a constant power struggle.
+
+Your child is in control of their body, and this isn't something to stress over.
+
+If your child is getting stuck in a certain position or is learning to roll, sit up, crawl, or stand, it should be your mission during the day to help them master these skills. The more practice they get while awake, the less likely they are to struggle with them overnight. Ask the Goodnight House Sleep Assistant for tips.
+
+
+┄┄┄ [stage3_gradual_tip_stay_in_the_room_until_is_fully_asleep] ┄┄┄
+**Stay in the room until Wren is fully asleep**
+
+Stay in the room until Wren is 100% asleep. If you try to leave too soon, it will wake Wren and you'll have to start all over again.
+
+You might consider sleeping in the room all night for the first few nights to prevent Wren from getting anxious about you leaving once asleep. This can sometimes cause children to fight sleep or wake more often to check for you. This is optional and only needed for some children.
+
+-- LEAVE AND CHECKS (collapsible section) --
+
+┄┄┄ [stage3_leave_and_checks_intro] ┄┄┄
+**Leave and Checks**
+
+You've been working really hard to set the stage for sleep success. The schedule, catching up on sleep, reducing sleep assistance etc. Now it's time for the final step: helping Wren learn to fall asleep independently.
+
+The Leave and Check method is a way to offer support while helping Wren learn to fall asleep independently. Up until now, your role has been to physically help Wren fall asleep. That role is now shifting. Instead of assisting to sleep, you'll use your presence to comfort and reassure while giving Wren the opportunity to practice the skill of falling asleep independently.
+
+Before you start, please listen to the audio below. It walks you through the full method and the most common questions parents have.
+
+Questions before or during? Ask the Goodnight House Sleep Assistant in the chat!
+
+
+┄┄┄ [stage3_audio_leave_and_checks] ┄┄┄
+[AUDIO: Leave and Checks — ~11-12 min, Jessie's voice. Script locked, recording pending.]
+
+This audio walks through the full method: the parent-present framing (you're reassuring, not abandoning), laying the child down 100% awake, stepping out and using timed checks, and a complete walk-through of the Cry Scale (0-5) with the rule to start the timer only for sustained 5/5 crying with no ebb and flow. It covers which caregiver does checks (one parent per sleep time, no switching mid-attempt), going in calm and confident, keeping checks brief (~1 min) and comforting-not-assisting, using pickups sparingly, adapting intervals if checks escalate things, and realistic timing (avg 45-60 min to fall asleep Night 1; a light at the end of the tunnel by night three).
+
+[Full ~11-12 minute script is locked in the Stage 3 working doc, Section 9; referenced here as an audio asset.]
+
+
+┄┄┄ [stage3_leave_and_checks_method] ┄┄┄
+**Leave and Checks: Night 1**
+- Begin bedtime routine with enough time to lay Wren down in the crib by the scheduled bedtime.
+- Lay Wren in the crib completely awake.
+- Step quietly out of the room and close the door.
+- Use timed checks to support Wren if needed.
+
+**Timed Checks Schedule**
+- First check: 3-5 minutes
+- Second check: 10 minutes
+- Third check: 15 minutes
+- Fourth check: 20 minutes
+- Repeat every 20 minutes thereafter until asleep
+
+**When to start the timer**
+Use the Cry Scale button (lower right of the plan tab) to identify what level Wren is crying at.
+- Do not start the timer the moment you step out of the room.
+- Only start the timer if Wren is crying at a sustained level 5 with no ebb and flow.
+- If you start the timer and the crying calms down or starts ebbing and flowing, stop the timer.
+- Restart it only if Wren returns to a sustained level 5 cry.
+- After a full timer interval of sustained level 5 crying with no ebb or flow, do a check.
+
+**During a check**
+- Enter calmly and confidently.
+- Speak in a calm, confident voice so Wren senses everything is safe.
+- Comfort and reassure. Do not assist to sleep.
+- Keep checks brief (about one minute or less).
+- Stop comforting once Wren begins to calm.
+- Leave the room.
+
+**If your child becomes very upset**
+- You may pick Wren up if additional comfort or reassurance is needed.
+- Stay in the room and stand still next to the crib.
+- Avoid rocking or swaying.
+- After ~1-3 minutes lay Wren back down and step out of the room again.
+- Use pickups sparingly.
+- If picking up doesn't help, or makes it worse, discontinue pickups. 
+
+**Night wakings**
+- Follow the same process for any night wakings.
+- If you're still doing night feeds, see the Nighttime feeds section below for how to handle a waking that might be hunger.
+
+
+┄┄┄ [stage3_leave_and_checks_naps] ┄┄┄
+**Naps during Leave and Checks**
+
+Focus on bedtime first. Bedtime builds the strongest sleep pressure and usually leads to faster success.
+- Continue assisting Wren to sleep for naps during this phase.
+- Use the least amount of intervention necessary to assist to sleep. 
+- Rescuing naps is still appropriate if needed (assisting back to sleep after an early waking).
+- The goal right now is to protect daytime sleep while focusing on building independent sleep at night.
+
+Once Wren is falling asleep independently at bedtime, you will begin working toward independent naps in Stage 4.
+
+**If your child is falling asleep independently at bedtime**
+Some families have a great Night 1 and want to start nap work the next day. If Wren is falling asleep independently at bedtime and you want to start, open the chat with the Goodnight House Sleep Assistant. It can walk you through whether Wren is ready and how to begin.
+
+
+┄┄┄ [stage3_lc_tip_adapting_your_check_intervals] ┄┄┄
+**Adapting your check intervals**
+
+The check intervals are suggestions. You can tweak them if they're not working for your family. If you notice checks are escalating the crying or making things worse, it's okay to space them out further. Adapt to whatever Wren and your family needs.
+
+
+┄┄┄ [stage3_lc_tip_realistic_expectations] ┄┄┄
+**Realistic expectations**
+
+On average it takes children 45-60 minutes to fall asleep at the first bedtime on Night 1. That doesn't mean Wren will be crying that whole time, it's just how long it typically takes to fall asleep.
+
+Some children fall asleep within a few minutes. Some go past 60 minutes. Both are normal. If you are unsure about how it's going, check in with the Goodnight House Sleep Assistant. 
+
+By night three, if you're following the plan consistently, you should see a light at the end of the tunnel. Wren should be falling asleep faster and waking less overall. If you're not seeing improvements, something likely needs to change. Open the chat tab and talk it through with the Goodnight House Sleep Assistant.
+
+
+┄┄┄ [stage3_room_sharing_addon] (additive add-on (placeholder content)) ┄┄┄
+**Roomsharing Tips:**
+Many Goodnight House families roomshare, whether by preference or necessity. This may mean parents sharing a room with their child or siblings sharing a room together.
+
+If possible, it can be helpful for parents and/or siblings to sleep elsewhere during the first several nights of a gradual method or the first 3 nights of the Leave and Check method. Giving Wren a little extra space during this initial adjustment period can often make the process smoother, however you know Wren best. 
+
+If another bedroom isn't available, camping out in the living room can be a great alternative.
+
+-- UNIVERSAL BOTTOM --
+
+┄┄┄ [stage3_night_feeds] ┄┄┄
+**Nighttime feeds during Stage 3**
+
+By this point, you should have reduced night feedings to only the times Wren is truly hungry. You'll likely see a pretty clear pattern of when Wren wakes out of hunger to eat (typically 1-3 times around consistent times).
+- If Wren wakes and you believe it's due to hunger, a good rule of thumb is to offer a feeding if it's been around 4 hours from the last feeding, or close to it.
+- If it's been less than 4 hours, you can be more confident that it likely isn't hunger causing the wake-up. Follow whatever strategy you used at bedtime to support Wren back to sleep.
+- Wait until Wren wakes. Avoid interrupting sleep for a feeding.
+- If Wren wakes and you believe it's out of hunger, it's okay to go in and offer a feeding. It's always worth pausing for 5-10 minutes before rushing into the room at a night waking, as many children will settle back to sleep on their own. If Wren is still awake after that pause, it's okay to feed immediately.
+- Aim to keep Wren alert and actively eating during feedings. Once the feeding is finished, return to the crib awake and allow the opportunity to fall back asleep independently.
+- Don't extend feedings in the middle of the night past what you would do for a daytime feeding.
+- Make sure Wren is truly eating and not just sucking for comfort.
+
+**Weaning night feeds**
+The option to wean night feeds is addressed in Stage 4. Once Wren is falling asleep independently, unnecessary feedings often naturally decrease, so no need to stress about weaning feeds until after Wren is falling asleep independently.
+
+
+┄┄┄ [stage3_caregiver_multiple_caregivers] ┄┄┄
+**Multiple Caregivers**
+
+- Decide ahead of time who is responsible for each sleep period. For example, Mom may handle bedtime while Dad handles the first night waking.
+- Avoid switching caregivers in the middle of the same sleep attempt, as this can be overstimulating and make it harder for Wren to settle.
+- Whichever caregiver is on, follow the same routine and response each time so Wren knows what to expect.
+
+
+┄┄┄ [stage3_consistency] ┄┄┄
+**Consistency**
+Consistency is one of the clearest forms of communication you have with Wren.
+Once you begin your Stage 3 method, do your best to stick with the plan for the entire sleep attempt. Reverting back to old sleep strategies midway through is often more confusing than helpful. Remember, the method itself has comfort and reassurance built in. Wren is not being left to figure this out alone.
+The goal is to help Wren practice a new sleep skill, not spend the night wondering how long it will be until the old sleep strategy returns.
+Consistency helps Wren know what to expect and gain confidence around independent sleep more quickly.
+
+==================== STAGE 4 - NAPS & NIGHT WEANING ====================
+
+-- GATE --
+
+┄┄┄ [gate_bedtime_independence] (parent answers: still_supported) ┄┄┄
+**When you lay your child down at bedtime, are they falling asleep independently or still needing you nearby?**
+- Settling mostly on their own (independent)
+- Still needing me nearby (still supported)
+
+
+┄┄┄ [gate_still_night_feeding] (parent answers: yes) ┄┄┄
+**Is your child still taking overnight feeds?**
+- Yes
+- No
+
+
+┄┄┄ [gate_wants_to_wean] (parent answers: yes) ┄┄┄
+**Would you like to work on reducing or weaning overnight feeds?**
+- Yes
+- No
+
+-- PLAN --
+
+┄┄┄ [stage4_intro] ┄┄┄
+**Naps**
+
+As Wren learns to fall asleep more independently at bedtime, it's time to start working on daytime sleep, and night weaning if you would like to reduce overnight feeds.
+
+**Your focus during this stage:**
+- First, practice independent sleep for naps
+- Next, allow naps to settle and become more consistent
+- Finally, begin extending naps if needed
+
+
+┄┄┄ [stage4_nap_expectations] ┄┄┄
+**Naptime expectations**
+- Naps take time. They can take several days, sometimes a couple of weeks, to settle. 
+- Short naps are very common, especially early on. Nap work takes patience and practice, and most families see things start to click somewhere around day five to seven.
+- Naps can be more challenging than nighttime sleep because sleep pressure is lower during the day.
+
+**A few things that help with naps:**
+- The first nap of the day is usually the easiest, because sleep pressure is highest in the morning.
+
+- On short or skipped-nap days, a bedtime as early as 6:00pm will help compensate for lost day sleep.
+
+
+┄┄┄ [stage4_nap_attempt] ┄┄┄
+**How to approach naps**
+
+**Before each nap:**
+- Complete the nap routine, starting early enough to place Wren in the crib about 10 minutes before the scheduled nap time.
+
+It is normal for children to take a little longer to fall asleep during the first few days.
+
+**The attempt:**
+Because naps are time-limited, give the nap attempt 60 to 75 minutes, choosing the length based on your comfort level. You will support your child during this window the same way you do at bedtime.
+
+- **If Wren falls asleep before the 60 to 75 minute mark:** This is great! Let the nap continue until the usual wake-up time.
+- **If Wren falls asleep toward the end of the 60 to 75 minutes:** Let Wren sleep for about 45 to 60 minutes, then adjust the rest of the day as needed.
+- **If Wren takes a short nap (for example 30 to 45 minutes):** This counts as a successful nap attempt. If Wren wakes but remains calm or is quietly fussing, pause for a few minutes to see what happens. If crying begins, go ahead and get Wren. Picking up while content helps reinforce that crying is not necessary in order for you to come. Opt for an early bedtime (as early as 6pm) to compensate for the lost day sleep. 
+- **If Wren does not fall asleep within 60 to 75 minutes:** Go ahead and end the nap attempt.
+
+**If Wren is upset during the attempt:**
+
+Support and respond the same way you did at bedtime last night. As you reduce support at bedtime over the coming days, reduce it at naps the same way.
+
+If you find your presence is making naps harder rather than easier (Wren gets more worked up with you there), don't push it. Ease off and protect day sleep for now, assist however you need to, and keep your focus on bedtime. Once your child is falling asleep independently, or close to it, at bedtime, you can come back and try naps again using checks:
+- Respond with checks, the same brief, calm reassurance used in the Leave and Check method. Use the cry scale (lower right corner of the app in the plan tab) to guide you.
+- Sometimes checks during naps can increase frustration, because your child may think you are coming to get them up. If you notice that checks make crying worse, you can try one of these:
+- **Option 1:** Do a "voice check." If you have a baby monitor you can speak through, talk to Wren through the monitor to offer reassurance instead of going into the room. This can be reassuring without causing frustration.
+- **Option 2:** It is completely okay to give Wren space during the attempt. You can skip or lengthen the timing between checks.
+
+You can open the chat any time and the Goodnight House Sleep Assistant will help you decide when to try again.
+
+**A quick heads up:** As night sleep settles, it's common for children to have a poopy diaper at random, unusual-for-them times for a few days. If Wren is upset during a nap attempt and you think it could be from a poopy diaper, go ahead and do a check.
+
+**What happens next:**
+
+- The nap attempt is over and you can move forward with the day.
+
+- Keep the next nap at the scheduled time.
+- You may need to work a little harder to keep Wren awake and content. Try to avoid car rides or stroller walks that might lead to accidentally micro naps.
+
+**Moving through the day:**
+- If nap 1 was hard or short, assist Wren to sleep for the second nap, using the least amount of intervention needed and avoiding the original sleep association.
+- Once nap 1 is going well, or after 3 days, begin working on nap 2.
+
+
+┄┄┄ [stage4_nap_extension] ┄┄┄
+**Lengthening short naps**
+
+- Start this once Wren is falling asleep independently for naps and you have been working on naps consistently for at least several days.
+- Once Wren is falling asleep independently for naps, a longer nap is really just two sleep cycles linked together. A single cycle runs about 30 to 45 minutes, so a short nap usually means your child woke between cycles and had trouble bridging into the next one.
+
+Lengthening happens in stages: first your child falls asleep on their own, then sleeps a full cycle, then learns to resettle at that 30 to 45 minute mark instead of waking all the way up, and over time those cycles start connecting into one long, solid nap. 
+
+**How to do it**
+
+- Start with the first nap of the day. It's usually the easiest to lengthen because sleep pressure is highest in the morning.
+
+- If Wren wakes after one sleep cycle (between 20 to 45 minutes), pause to give the chance to fall back asleep independently.
+- Have Wren stay in the crib for the rest of the scheduled nap. Staying in the crib offers the opportunity to link another sleep cycle, and staying in the dark sleep space is still more restorative than ending the nap. 
+- If Wren is crying, support with checks. Follow the cry scale. If checks make things worse, you can use a voice check or skip checks altogether.
+- When the scheduled nap time is over, get Wren up and move on with the day. Make a big deal when you go in, and celebrate how well Wren did!
+
+Keep working on the first nap for several days. Once it is lengthening more consistently, use the same approach for the second nap if needed.
+
+**A few things to keep in mind**
+
+- Work on one nap at a time. Do not try to extend every short nap right away.
+
+- Some children are not quite ready to link sleep cycles yet, and that is okay.
+- If after 5-7 days naps are not improving, chat with the Goodnight House Sleep Assistant to troubleshoot.
+
+
+┄┄┄ [stage4_early_morning_wakings] ┄┄┄
+**Early morning wakings**
+
+Early morning wakings, any time before about 6:00am, are very common during this stage. This usually happens because sleep pressure is lowest in the early morning hours.
+
+**A few things that can help:**
+- Treat any waking before your desired wake time as a night waking, and respond the same way you would during the middle of the night. Anything before 6:00am is nighttime
+- If Wren wakes early but is calm or quietly fussing, pause and give some time to fall back to sleep rather than starting the day.
+- Keep the room very dark in the early morning hours. Even small amounts of light can signal to the brain that it is time to wake up. 
+- Make sure bedtime is not too late. On short or skipped-nap days, an earlier bedtime often helps prevent early morning waking
+
+- Keep the first nap at its usual scheduled time rather than moving it earlier in response to an early waking. Moving the first nap earlier will reinforce early morning wakings
+
+- If early morning wakings start happening consistently, check that the last wake window before bedtime is not too short
+- Most early morning wakings improve once naps become more consistent.
+
+
+┄┄┄ [stage4_night_weaning] ┄┄┄
+**Is your child ready?**
+Before intentionally weaning night feeds, it's always best to check with your pediatrician to confirm your child is ready. Always follow your pediatrician's guidance if it differs from these suggestions. This is not medical advice.
+
+In general, most healthy full-term babies over 6 months can physiologically sleep through the night without feeding. Every child is different, and some families choose to keep a feeding longer. Night weaning is optional.
+
+**What is night weaning ?**
+Night weaning means shifting your child's feedings and calories into daytime hours, rather than cutting calories out. Every baby has a baseline amount of calories they need in a 24-hour period, so you are not taking away the nutrition they need, you are simply moving those feedings to the day. The nighttime calories are transferred to the daytime hours. 
+
+**A few guidelines to keep in mind:**
+- If it has been less than 4 hours since the last feeding, hunger is not very likely.
+- If you do feed during a wake-up, feed promptly rather than delaying. Consistency helps avoid mixed signals.
+- When you don't believe a middle of the night waking is driven by true hunger, support and respond the same way you did at bedtime last night, using the least amount of intervention necessary.
+
+**What to expect:**
+- Once Wren consistently drops a feeding, that usually becomes the new baseline.
+- As you reduce overnight feeds, it is normal for Wren to feel frustrated about changes to a familiar pattern. Expect that there may be some tears
+- During growth spurts, kiddos often seem hungrier both during the day and overnight. Keep this in mind as you assess whether night wakings are due to a growth spurt or not. 
+
+**How to reduce feeds gradually**
+Work on one feeding at a time, starting with the feeding closest to bedtime and working toward the later ones. This helps the long, most restorative stretch of sleep from bedtime onward consolidate and lengthen first.
+
+The night or two before you start, take note of how much or how long Wren eats at the first feeding of the night. Then, when you are ready to begin reducing:
+
+- Reduce about 2 to 5 minutes at a time every few nights. To go slower, reduce 1 to 2 minutes at a time, or reduce every other night instead of every night.
+
+- When your child finishes the reduced feeding, put them back down in their sleep space
+- Have a plan for how you will respond to wakings, especially if Wren was previously feeding to sleep and is now being put down awake. Support and reassure the same way you do at bedtime, using the least amount of intervention necessary. 
+- Whatever you take away at night, add to the daytime. That might be an extra feeding, a slightly longer feeding, or a few more ounces in a daytime bottle.
+- As night feedings decrease, those calories should naturally shift to the daytime, and babies typically make up the difference during daytime feedings.
+- As you reduce feedings, Wren may still wake around the usual feeding time for a few nights. This is normal. Keep responding the same way you do at bedtime, and the waking will usually fade as your child adjusts.
+
+Once you get nursing down to about 2 to 5 minutes, you can drop that feeding completely and support Wren back to sleep the same way you do at bedtime.
+
+**What to expect on timing**
+Night weaning can be quick, or it can take a couple of weeks. Both are normal. 
+
+The most important thing is consistency. Going back and forth, or stopping and starting, tends to cause more tears and drags the process out.
+
+Going slowly also protects your milk supply. If needed, you can pump to maintain supply while weaning.
+
+If night weaning is not coming together and you would like help troubleshooting, open the chat and ask the Goodnight House Sleep Assistant.
+
+You can also reference the Hunger vs Habit chart in the Library tab to help you think through whether a night waking is driven by hunger or habit.
+
+
+┄┄┄ [stage4_tip_early_bedtime_on_short_nap_days] ┄┄┄
+**Early bedtime on short-nap days**
+
+- On short or skipped-nap days, opt for an early bedtime, as early as 6:00pm. You may need to use this for several days.
+- An early bedtime will not lead to earlier mornings. Instead, it will help Wren catch up on lost sleep and reduces overtiredness.
+- If early bedtimes are happening most days for more than a week or two, start gradually shifting bedtime later as naps improve, so the whole schedule does not drift early.
+
+
+┄┄┄ [stage4_tip_what_to_do_from_here] ┄┄┄
+**What to do from here**
+
+[AUDIO: Closing message from Jessie, recording pending. Text below is the backup for skimmers and accessibility.]
+Points the audio covers:
+- You've made it through all four stages of your sleep plan! 
+- Sleep is not a straight line. Teething, travel, illness, developmental milestones, and learning new skills can all stir things up for a few days. This is normal, and it does not undo your progress.
+- When things get shaky, go back to the basics: a consistent schedule, a dark room, predictable routines, and stay consistent with your responses.
+- Your child's schedule grows with them. As they grow, they can handle more and more time awake between sleep. Their schedule will update each month in the app, on the home tab
+- The Goodnight House Sleep Assistant is still here. Open the chat any time something comes up, whether it is a regression, a nap transition, travel, teething, sickness, or just a hard night
+- You know Wren best, and you now have the tools to handle what comes next
+
+
+┄┄┄ [stage4_tip_a_few_last_things] ┄┄┄
+**A few last things**
+
+- If the Goodnight House has helped your family, a review means the world and helps other tired parents find us. {{REVIEW_LINK}}
+- Know a family who could use better sleep? Share your referral code, found in Settings > Refer a Friend, and you'll both get a little something
+- Come say hi on Instagram, @thegoodnighthouse
